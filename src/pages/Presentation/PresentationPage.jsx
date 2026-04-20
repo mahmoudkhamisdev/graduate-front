@@ -18,7 +18,7 @@ import { BaseUrlApi, ErrorMessage } from "../../lib/api";
 import { Skeleton } from "src/components/ui/skeleton";
 import { defaultSlides } from "../../lib/default-slides";
 import { slideTemplates } from "./../../lib/slide-templates";
-import { askAgiant } from "src/lib/ai-agiant";
+import { askAgiant } from "src/lib/ai-agent";
 import { useAuth } from "../../context/AuthContext";
 
 // Track previous value

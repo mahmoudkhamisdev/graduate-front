@@ -16,7 +16,7 @@ import {
   PopoverTrigger,
 } from "src/components/ui/popover";
 import { cn } from "src/lib/utils";
-import { askAgiant } from "src/lib/ai-agiant";
+import { askAgiant } from "src/lib/ai-agent";
 // import { useLanguage as useLanguage2 } from "src/context/LanguageContext";
 
 // ==============================

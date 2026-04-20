@@ -5,7 +5,7 @@ import { ArrowUp, Copy, Presentation } from "lucide-react";
 import { Button } from "src/components/ui/button";
 import { Textarea } from "src/components/ui/textarea";
 import { cn } from "src/lib/utils";
-import { askAgiantWithMessages } from "src/lib/ai-agiant";
+import { askAgiantWithMessages } from "src/lib/ai-agent";
 import MarkdownRenderer from "src/components/Dashboard/Chat/MarkdownRenderer";
 import { usePresentation } from "src/context/presentation-context";
 import {
